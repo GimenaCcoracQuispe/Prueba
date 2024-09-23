@@ -1,0 +1,5 @@
+pe\edu\vallegrande\sql\rest\ProductRestController.class
+pe\edu\vallegrande\sql\repository\ProductRepository.class
+pe\edu\vallegrande\sql\service\ProductService.class
+pe\edu\vallegrande\sql\entity\Product.class
+pe\edu\vallegrande\sql\SqlApplication.class
